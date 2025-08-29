@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Iure!  
 
-<!--
-**iuxie/iuxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu espaço no GitHub! ✨  
+Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizados na jornada de Engenharia de Software.  
 
-Here are some ideas to get you started:
+🎓 Estudante de **Engenharia de Software** na Univille  
+💻 Complemento minha formação com cursos práticos na **Alura**  
+🚀 Buscando oportunidades para crescer como desenvolvedor e contribuir em projetos reais  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Sobre mim  
+- 📚 Apaixonado por tecnologia e aprendizado contínuo  
+- 🔍 Interesse maior em **Back-End** e **Banco de Dados**  
+- 🛠️ Participo de **projetos acadêmicos** na faculdade, aplicando conceitos de engenharia de software em situações reais  
+- 📝 Atualmente estou desenvolvendo **projetos pessoais**, que em breve estarão disponíveis aqui no GitHub  
+- 🎯 Objetivo: evoluir como desenvolvedor e entrar no mercado de tecnologia  
+
+---
+
+## 🚀 Tecnologias  
+
+### ✅ O que já sei  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+### 📚 O que estou aprendendo  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL/MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+---
+
+## 📫 Como me encontrar  
+<p align="left">
+  <a href="https://www.linkedin.com/in/iurexavier" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:iurexavier10@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/iuxie/iuxie/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iurefx&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurefx&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+</p>
+
