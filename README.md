@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou o Iure!  
+<div style="background-color:#1a1b26; color:#c0caf5; padding:20px; border-radius:15px;">
+
+# 👋 <span style="color:#7aa2f7">Olá, eu sou o Iure!</span>  
 
 Bem-vindo ao meu espaço no GitHub! ✨  
 Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizados na jornada de Engenharia de Software.  
@@ -9,7 +11,7 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ---
 
-## 🧑🏻‍💻 Sobre mim  
+## 🧑🏻‍💻 <span style="color:#9ece6a">Sobre mim</span>  
 - 📚 Apaixonado por tecnologia e aprendizado contínuo  
 - 🔍 Interesse maior em **Back-End** e **Banco de Dados**  
 - 🛠️ Participo de **projetos acadêmicos** na faculdade, aplicando conceitos de engenharia de software em situações reais  
@@ -18,7 +20,7 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ---
 
-## 🚀 Tecnologias  
+## 🚀 <span style="color:#f0c674">Tecnologias</span>  
 
 ### ✅ O que já sei  
 <p align="left">
@@ -37,7 +39,8 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ---
 
-## 📫 Como me encontrar  
+## 📫 <span style="color:#f7768e">Contato</span>  
+
 <p align="left">
   <a href="https://www.linkedin.com/in/iurexavier" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -49,12 +52,17 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 <span style="color:#9d7cd8">Minhas Estatísticas</span>  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iuxie&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iuxie&show_icons=true&theme=tokyonight" width="48%" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuxie&layout=compact&theme=tokyonight" width="48%" alt="Linguagens mais usadas"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuxie&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
-</p>
+---
+
+## ✨ <span style="color:#4ec9b0">Acompanhe meus Projetos</span>  
+- 🎮 Projetos acadêmicos aplicando conceitos reais de Engenharia de Software  
+- 🖥️ Projetos pessoais em desenvolvimento, em breve disponíveis aqui no GitHub  
+
+</div>
