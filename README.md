@@ -9,7 +9,7 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ---
 
-## 🧑‍💻 Sobre mim  
+## 🧑🏻‍💻 Sobre mim  
 - 📚 Apaixonado por tecnologia e aprendizado contínuo  
 - 🔍 Interesse maior em **Back-End** e **Banco de Dados**  
 - 🛠️ Participo de **projetos acadêmicos** na faculdade, aplicando conceitos de engenharia de software em situações reais  
@@ -49,12 +49,6 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/iuxie/iuxie/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📊 Estatísticas do GitHub  
 
 <p align="left">
@@ -64,4 +58,3 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuxie&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
-
