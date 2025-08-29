@@ -58,10 +58,10 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 ## 📊 Estatísticas do GitHub  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iurefx&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iuxie&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurefx&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuxie&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
 
