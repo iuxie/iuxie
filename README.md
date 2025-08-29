@@ -1,6 +1,4 @@
-<div style="background-color:#1a1b26; color:#c0caf5; padding:20px; border-radius:15px;">
-
-# 👋 <span style="color:#7aa2f7">Olá, eu sou o Iure!</span>  
+# 👋 Olá, eu sou o Iure!  
 
 Bem-vindo ao meu espaço no GitHub! ✨  
 Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizados na jornada de Engenharia de Software.  
@@ -11,7 +9,7 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ---
 
-## 🧑🏻‍💻 <span style="color:#9ece6a">Sobre mim</span>  
+## 🧑🏻‍💻 Sobre mim  
 - 📚 Apaixonado por tecnologia e aprendizado contínuo  
 - 🔍 Interesse maior em **Back-End** e **Banco de Dados**  
 - 🛠️ Participo de **projetos acadêmicos** na faculdade, aplicando conceitos de engenharia de software em situações reais  
@@ -20,7 +18,7 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ---
 
-## 🚀 <span style="color:#f0c674">Tecnologias</span>  
+## 🚀 Tecnologias  
 
 ### ✅ O que já sei  
 <p align="left">
@@ -39,8 +37,7 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ---
 
-## 📫 <span style="color:#f7768e">Contato</span>  
-
+## 📫 Como me encontrar  
 <p align="left">
   <a href="https://www.linkedin.com/in/iurexavier" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -52,11 +49,14 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ---
 
-## 📊 <span style="color:#9d7cd8">Minhas Estatísticas</span>  
+## 📊 Estatísticas do GitHub  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iuxie&show_icons=true&theme=tokyonight" width="48%" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuxie&layout=compact&theme=tokyonight" width="48%" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iuxie&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuxie&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
 
 ---
