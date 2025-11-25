@@ -50,18 +50,6 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ---
 
-## Estatísticas do GitHub  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iuxie&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuxie&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
-</p>
-
----
-
 ## ✨ <span style="color:#4ec9b0">Acompanhe meus Projetos</span>  
 - 🎮 Projetos acadêmicos aplicando conceitos reais de Engenharia de Software  
 - 🖥️ Projetos pessoais em desenvolvimento, em breve disponíveis aqui no GitHub  
