@@ -13,7 +13,7 @@ Aqui compartilho minha evolução como desenvolvedor, meus projetos e aprendizad
 
 ## Sobre mim  
 - 📚 Apaixonado por tecnologia e aprendizado contínuo  
-- 🔍 Interesse maior em **Back-End** e **Banco de Dados**  
+- 🔍 Interesse maior em **Back-End**
 - 🛠️ Participo de **projetos acadêmicos** na faculdade, aplicando conceitos de engenharia de software em situações reais  
 - 📝 Atualmente estou desenvolvendo **projetos pessoais**, que em breve estarão disponíveis aqui no GitHub  
 - 🎯 Objetivo: evoluir como desenvolvedor e entrar no mercado de tecnologia  
